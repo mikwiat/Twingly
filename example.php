@@ -7,7 +7,4 @@
 	
 	print_r($items);
 
-
-	echo "Trlalalallalllla";
-	echo "Tjenis";
 ?>
